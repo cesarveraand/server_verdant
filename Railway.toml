@@ -1,0 +1,2 @@
+[env]
+INSTALL_PKGS = "libmysqlclient-dev pkg-config build-essential python3-dev"
