@@ -1,1 +1,1 @@
-web: python index.py
+web: gunicorn -b 0.0.0.0:$PORT index:app
